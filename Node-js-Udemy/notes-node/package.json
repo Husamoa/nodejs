@@ -1,7 +1,7 @@
 {
   "name": "notes-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "First steps",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.11"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Husamoa/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Husamoa/nodejs/issues"
+  },
+  "homepage": "https://github.com/Husamoa/nodejs#readme"
 }
