@@ -9,7 +9,8 @@
   "author": "Pawel",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "npm": "^6.5.0"
   },
   "devDependencies": {},
   "repository": {
